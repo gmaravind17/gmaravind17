@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @gmaravind17
-- 👀 I’m interested in Blockchain and Rust.
-- 🌱 I’m currently learning Blockchain and Rust.
-- 💞️ I’m looking to collaborate on Blockchain and Rust.
+- 🌱 I’m currently learning Js and Blockchain technology.
 - 📫 How to reach me gmaravind17@protonmail.com
 
 <!---
